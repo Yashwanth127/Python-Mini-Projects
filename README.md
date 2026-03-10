@@ -1,4 +1,4 @@
-# 🐍 Python Mini Projects 🎉
+#  Python Mini Projects 
 
 This repository contains beginner-friendly **Python mini projects** that I created while learning Python from basics to advanced.  
 Each project covers different concepts such as variables, loops, functions, conditions, and GUI with Tkinter.  
@@ -31,4 +31,3 @@ Each project covers different concepts such as variables, loops, functions, cond
 
    git clone https://github.com/Yashwanth127/Python-Mini-Projects.git
 
-More projects coming soon...
